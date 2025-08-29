@@ -14,23 +14,24 @@ With **multi-step forms, AI-generated summaries, and export/download options**, 
 
 ---
 
+
+
 ## 📸 Screenshots  
 
 ### 🏠 Landing Page  
-![Landing Page](public/screenshots/landing-page.png)  
+![Landing Page](./screenshots/landing-page.png)  
 
 ### 🔑 Authentication Page  
-![Authentication Page](public/screenshots/auth-page.png)  
+![Authentication Page](./screenshots/auth-page.png)  
 
 ### 🤖 AI Summary Generation  
-![AI Summary](public/screenshots/ai-summary.png)  
+![AI Summary](./screenshots/ai-summary.png)  
 
 ### 📝 Resume Editor (AI Powered)  
-![Resume Editor](public/screenshots/resume-editor.png)  
+![Resume Editor](./screenshots/resume-editor.png)  
 
 ### 📂 Export / Download Resume  
-![Export Resume](public/screenshots/export-resume.png)  
-
+![Export Resume](./screenshots/export-resume.png)  
 
 ---
 
