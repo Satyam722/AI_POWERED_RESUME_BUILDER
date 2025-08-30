@@ -26,10 +26,10 @@ With **multi-step forms, AI-generated summaries, and export/download options**, 
 ![Authentication Page](public/screenshots/auth-page.png)  
 
 ### 🤖 AI Summary Generation  
-![AI Summary](public/screenshots/auth-page.png)  
+![AI Summary](public/screenshots/ai-summary.png)  
 
 ### 📝 Resume Editor (AI Powered)  
-![Resume Editor](public/screenshots/resume-editor.png)  
+![Resume Editor](public/screenshots/resume.png)  
 
 ### 📂 Export / Download Resume  
 ![Export Resume](public/screenshots/export-resume.png)  
